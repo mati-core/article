@@ -1,0 +1,3 @@
+services:
+	articleManager: MatiCore\Article\ArticleManager
+	articleManagerAccessor: MatiCore\Article\ArticleManagerAccessor
